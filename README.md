@@ -26,7 +26,7 @@ Developed using HTML, CSS, and SCSS, no React involved. Commercial Project.
 An e-commerce interface using Redux for state management.
 ![Project 2 Screenshot](images/project2.png)
 - Description: Optimized for performance with lazy loading.
-- Link: [Live Demo](https://urbanillia.github.io/project2/)
+- [Link](https://glowwinnerstar.com/), [Repository](https://urbanillia.github.io/project2/)
 <!---
 UrbanIllia/UrbanIllia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
