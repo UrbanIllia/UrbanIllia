@@ -21,9 +21,8 @@ Developed using HTML, CSS, and SCSS, no React involved. Commercial individual Pr
 
 - Description: This website is dedicated to the game Merge DreamLand.
 - [Link](https://glowwinnerstar.com/), [Repository](https://urbanillia.github.io/project2/)
-- 
+ 
 .........................................................................
-  
 ### My React Practice
 React Practice on Various Topics. Individual
 
@@ -31,9 +30,8 @@ React Practice on Various Topics. Individual
 
 - Description: API, Routing, React/Redux, useHooks, Formik, Axios, Tailwind....
 - [Link](https://react-dz-1.vercel.app/), [Repository](https://github.com/UrbanIllia/react-practice)
-- 
+
 .........................................................................
-  
 - ### Rental Car
 Car selection website. Individual Project
 
@@ -41,10 +39,9 @@ Car selection website. Individual Project
 
 - Description:  React/Redux, API, Formik, React Router, Figma 
 - [Link](https://rental-car-alpha-ten.vercel.app), [Repository](https://github.com/UrbanIllia/RentalCar)
-- 
-- .........................................................................
-- 
-- - ### Expense Tracker
+ 
+ .........................................................................
+ - ### Expense Tracker
 Application for monitoring financial expenses. Team Project
 
 <img src="ExpenseTracker.jpg" alt="Project 1 Screenshot" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
