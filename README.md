@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Hi! I’m a passionate front-end developer with a love for creating user-friendly web applications. I specialize in React, JavaScript, and modern tools like Vite, Redux, and CSS modules, blending clean code with creative design. With hands-on experience in building responsive interfaces and integrating APIs, I enjoy solving complex problems and optimizing performance. Beyond coding, I’m keen on exploring new technologies, experimenting with animations, and sharing knowledge through open-source projects. This GitHub profile reflects my journey—feel free to explore my work, connect with me, or collaborate!
 
 *   🌍  I'm based in Kiev
-*   ✉️  You can contact me at [urban.mutagen@gmail.com](mailto:urban.mutagen@gmail.com )  [Telegram](http://@urbanIllia)
+*   ✉️  You can contact me at [urban.mutagen@gmail.com](mailto:urban.mutagen@gmail.com )     My [Telegram](https://t.me/@urbanIllia))
 *   🧠  I'm learning React.js Node.js
 *   
 *   Skills
