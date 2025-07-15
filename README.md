@@ -20,7 +20,7 @@ Developed using HTML, CSS, and SCSS, no React involved. Commercial Project.
 <img src="DreamLand.jpg" alt="Project 1 Screenshot" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
 
 - Description: This website is dedicated to the game Merge Land.
-- Link: [Live Demo](https://github.com/UrbanIllia/stp-8620)
+- [Link](https://glowwinnerstar.com/), [Repository](https://urbanillia.github.io/project2/)
 
 ### Project 2
 An e-commerce interface using Redux for state management.
