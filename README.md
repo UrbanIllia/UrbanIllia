@@ -15,20 +15,36 @@ Hi! I’m a passionate front-end developer with a love for creating user-friendl
 ## My Projects
 
 ### Merge DreamLand
-Developed using HTML, CSS, and SCSS, no React involved. Commercial Project.
+Developed using HTML, CSS, and SCSS, no React involved. Commercial individual Project.
 
 <img src="DreamLand.jpg" alt="Project 1 Screenshot" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
 
 - Description: This website is dedicated to the game Merge DreamLand.
 - [Link](https://glowwinnerstar.com/), [Repository](https://urbanillia.github.io/project2/)
-
+............................................
 ### My React Practice
-React Practice on Various Topics.
+React Practice on Various Topics. Individual
 
 <img src="MyPractice.jpg" alt="Project 1 Screenshot" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
 
-- Description: API, Routing, Redux, useHooks, Formik, Axios, Tailwind....
+- Description: API, Routing, React/Redux, useHooks, Formik, Axios, Tailwind....
 - [Link](https://react-dz-1.vercel.app/), [Repository](https://github.com/UrbanIllia/react-practice)
+............................................
+- ### Rental Car
+Car selection website. Individual Project
+
+<img src="RentaCar.jpg" alt="Project 1 Screenshot" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+
+- Description:  React/Redux, API, Formik, React Router, Figma 
+- [Link](https://rental-car-alpha-ten.vercel.app), [Repository](https://github.com/UrbanIllia/RentalCar)
+- ............................................
+- - ### Expense Tracker
+Application for monitoring financial expenses. Team Project
+
+<img src="ExpenseTracker.jpg" alt="Project 1 Screenshot" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+
+- Description: React/Redux, axios, formik, React Router, react-datepicker, react-hot-toast, react-spinners, Figma 
+- [Link](https://dev-nest-lovat.vercel.app/), [Repository](https://github.com/llDeRuNll/DevNest)
 <!---
 UrbanIllia/UrbanIllia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
