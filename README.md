@@ -14,19 +14,19 @@ Hi! I’m a passionate front-end developer with a love for creating user-friendl
                     </p>
 ## My Projects
 
-### Project 1
+### Merge DreamLand
 Developed using HTML, CSS, and SCSS, no React involved. Commercial Project.
 
 <img src="DreamLand.jpg" alt="Project 1 Screenshot" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
 
-- Description: This website is dedicated to the game Merge Land.
+- Description: This website is dedicated to the game Merge DreamLand.
 - [Link](https://glowwinnerstar.com/), [Repository](https://urbanillia.github.io/project2/)
 
-### Project 2
-An e-commerce interface using Redux for state management.
+### My React Practice
+React Practice on Various Topics.
 ![Project 2 Screenshot](images/project2.png)
-- Description: Optimized for performance with lazy loading.
-- [Link](https://glowwinnerstar.com/), [Repository](https://urbanillia.github.io/project2/)
+- Description: API, Routing, Redux, useHooks, Formik, Axios, Tailwind....
+- [Link](https://react-dz-1.vercel.app/), [Repository](https://github.com/UrbanIllia/react-practice)
 <!---
 UrbanIllia/UrbanIllia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
