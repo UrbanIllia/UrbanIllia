@@ -50,7 +50,10 @@ Application for monitoring financial expenses. Team Project
 - [Link](https://dev-nest-lovat.vercel.app/), [Repository](https://github.com/llDeRuNll/DevNest)
 
 - More Team Projects
-- [![Lloyd Jefferson](<img src="Jefferson.jpg" alt="Project 1 Screenshot" style="width: 20%; height: auto; display: block; margin: 0 auto;" />)](https://lika060.github.io/BugBusters-project/)
+- <a href="https://lika060.github.io/BugBusters-project/">
+  <img src="Jefferson.jpg" alt="Project Lloyd Jefferson" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+</a>
+
 <!---
 UrbanIllia/UrbanIllia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
