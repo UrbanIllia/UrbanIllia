@@ -58,8 +58,9 @@ Application for monitoring financial expenses. Team Project
     <img src="YachtJEt.jpg" alt="Project Yacht JEt" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
   </a>
 </div>
+
 - My Practice React more
- <div style="display: flex; flex-direction: row; gap: 20px">
+ <div style="display: flex; flex-direction: row; gap: 40px">
   <a href="https://goit-react-hw-02-puce-eta.vercel.app/" target="_blank">
     <img src="Proj-Cafe.jpg" alt="Project Cafe" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
   </a>
