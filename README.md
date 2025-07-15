@@ -24,7 +24,9 @@ Developed using HTML, CSS, and SCSS, no React involved. Commercial Project.
 
 ### My React Practice
 React Practice on Various Topics.
-![Project 2 Screenshot](images/project2.png)
+
+<img src="MyPractice.jpg" alt="Project 1 Screenshot" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+
 - Description: API, Routing, Redux, useHooks, Formik, Axios, Tailwind....
 - [Link](https://react-dz-1.vercel.app/), [Repository](https://github.com/UrbanIllia/react-practice)
 <!---
