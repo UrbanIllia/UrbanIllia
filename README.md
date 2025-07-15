@@ -50,8 +50,11 @@ Application for monitoring financial expenses. Team Project
 - [Link](https://dev-nest-lovat.vercel.app/), [Repository](https://github.com/llDeRuNll/DevNest)
 
 - More Team Projects
-- <a href="https://lika060.github.io/BugBusters-project/">
+- <a href="https://lika060.github.io/BugBusters-project/" target="_blank">
   <img src="Jefferson.jpg" alt="Project Lloyd Jefferson" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+</a>
+- <a href="https://urbanillia.github.io/project-frontenders/" target="_blank">
+  <img src="YachtJEt.jpg" alt="Project Yacht JEt" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
 </a>
 
 <!---
