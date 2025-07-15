@@ -16,7 +16,7 @@ Hi! I’m a passionate front-end developer with a love for creating user-friendl
 
 ### Project 1
 Developed using HTML, CSS, and SCSS, no React involved. Commercial Project.
-![Project 1 Screenshot](DreamLand.jpg)
+<img src="DreamLand.jpg" alt="Project 1 Screenshot" style="max-width: 50%; height: auto;" />
 - Description: This website is dedicated to the game Merge Land.
 - Link: [Live Demo](https://github.com/UrbanIllia/stp-8620)
 
