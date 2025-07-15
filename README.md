@@ -52,32 +52,32 @@ Application for monitoring financial expenses. Team Project
 - More Team Projects
 <div style="display: flex; flex-direction: row; gap: 20px">
   <a href="https://lika060.github.io/BugBusters-project/" target="_blank">
-    <img src="Jefferson.jpg" alt="Project Lloyd Jefferson" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+    <img src="Jefferson.jpg" alt="Project Lloyd Jefferson" style="width: 15%; height: auto; display: block; margin: 0 auto;" />
   </a>
   <a href="https://urbanillia.github.io/project-frontenders/" target="_blank">
-    <img src="YachtJEt.jpg" alt="Project Yacht JEt" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+    <img src="YachtJEt.jpg" alt="Project Yacht JEt" style="width: 15%; height: auto; display: block; margin: 0 auto;" />
   </a>
 </div>
 
 - My Practice React more
  <div style="display: flex; flex-direction: row; gap: 40px">
   <a href="https://goit-react-hw-02-puce-eta.vercel.app/" target="_blank">
-    <img src="Proj-Cafe.jpg" alt="Project Cafe" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+    <img src="Proj-Cafe.jpg" alt="Project Cafe" style="width: 15%; height: auto; display: block; margin: 0 auto;" />
   </a>
   <a href="https://goit-react-hw-03-chi-lemon.vercel.app/" target="_blank">
-    <img src="Proj-Phonebook.jpg" alt="Phonebbok" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+    <img src="Proj-Phonebook.jpg" alt="Phonebbok" style="width: 15%; height: auto; display: block; margin: 0 auto;" />
   </a>
   <a href="https://goit-react-hw-04-pink-iota.vercel.app/" target="_blank">
-    <img src="Proj-apiPhotos.jpg" alt="API Pictures" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+    <img src="Proj-apiPhotos.jpg" alt="API Pictures" style="width: 15%; height: auto; display: block; margin: 0 auto;" />
   </a>
   <a href="https://goit-react-hw-05-five-mauve.vercel.app/" target="_blank">
-    <img src="Proj-apiMovies.jpg" alt="API Movies" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+    <img src="Proj-apiMovies.jpg" alt="API Movies" style="width: 15%; height: auto; display: block; margin: 0 auto;" />
   </a>
   <a href="https://goit-react-hw-07-eta-smoky.vercel.app/" target="_blank">
-    <img src="Proj-contacts2.jpg" alt="Redux Contacts" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+    <img src="Proj-contacts2.jpg" alt="Redux Contacts" style="width: 15%; height: auto; display: block; margin: 0 auto;" />
   </a>
   <a href="https://goit-react-hw-08-two-olive.vercel.app/" target="_blank">
-    <img src="proj-Star.jpg" alt="Star" style="width: 20%; height: auto; display: block; margin: 0 auto;" />
+    <img src="proj-Star.jpg" alt="Star" style="width: 15%; height: auto; display: block; margin: 0 auto;" />
   </a>
 </div> 
  
