@@ -5,7 +5,7 @@ Hi! I’m a passionate front-end developer with a love for creating user-friendl
 
 *   🌍  I'm based in Kiev
 *   ✉️  You can contact me at [urban.mutagen@gmail.com](mailto:urban.mutagen@gmail.com )     And [Telegram](https://t.me/urbanIllia)
-*   🧠  I'm learning React.js Node.js
+*   🧠  I'm learning React.js Node.js Next.js
 *   
 *   Skills
 *   
